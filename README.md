@@ -9,6 +9,7 @@ The primary goal of this repository is to provide a structured environment where
 ## Repository Structure
 
 - `/challenges`: This folder contains all the algorithmic challenges posted as markdown files. Each challenge includes a description, example inputs and outputs, and any special instructions.
+- `/techniques`: A dedicated folder offering insights into various problem-solving techniques. This section includes README.md files that explain different approaches and methods for tackling algorithmic problems effectively.
 
 ## Workflow
 
