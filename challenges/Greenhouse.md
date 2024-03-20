@@ -27,12 +27,12 @@ Given the temperature readings throughout the day at regular intervals, your sys
 int[] temperatures = {17, 19, 21, 23, 20, 19, 22, 21, 18, 17, 22, 20, 21};
 ```
 ### Output 1
-6
+5
 
 ### Input 2
 ```java
 int[] temperatures = {16, 18, 20, 21, 21, 20, 19, 18, 23, 24, 22, 20, 19, 18, 17};
 ```
 ### Output 1
-9
+7
 
